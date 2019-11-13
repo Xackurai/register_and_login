@@ -5,5 +5,5 @@ Tomcat 9.0.26
 
 run
 ----
-1.run login.jsp\
-2.run register.jsp
+1.run web/login.jsp\
+2.run web/register.jsp
